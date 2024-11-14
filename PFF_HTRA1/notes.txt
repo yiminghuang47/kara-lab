@@ -1,0 +1,29 @@
+Excel 1
+1 row per image
+1. import 3 channels
+2. count number of inclusions
+3. identify what proportion of inclusions colocalize with red (segment and make masks for green and red and calculate percentage they overlap)
+
+4. total green areas
+5. total red areas
+6. total overlap area
+
+Excel 2
+
+1 row per cell
+Use cellpose
+4. For each cell, calculate how much red is inside the cell. 
+5. Num inclusions
+6. Surface areas of inclusions
+7. Average Size of inclusions
+8. Surface areas of cell
+9. Surface areas of red
+
+
+
+
+make plot 
+
+fluorescence intensity within cells vs. image name 
+(segment cells using low threshold)
+sort them
