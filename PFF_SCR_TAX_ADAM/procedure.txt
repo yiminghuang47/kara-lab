@@ -1,0 +1,26 @@
+Inclusion Analysis Procedure
+1. Process Green Channel:
+    - Preprocess: Smooth and normalize the green channel for cell segmentation.
+    - Remove bright spots (intensity > 0.8) and blur. Bright spots are removed because they are sometimes mistakenly identified as cells.
+    - Detect cells using Cellpose.
+2. Process DAPI Channel:
+    - Preprocess for nuclei labeling and count.
+    - Gaussian smoothing
+    - Otsu thresholding
+    - Small object removal
+    - Morphological dilation
+3. Cell Analysis:
+    - Loop through each detected cell
+    - Normalize pixel intensity to the range [0,1]
+    - Determine inclusion threshold
+    - It's important to identify cells with no inclusion 
+    - By plotting out the histogram of the pixel intensities for each image, it can be observed that cells with inclusions has a distribution skewed to the left, because they have a lot of low-intensity pixels and a small amount of high-intensity pixels. On the other hand, cells without inclusions will have a more evenly distributed histogram due to the lack of high-intensity pixels.
+    - This observation leads to the following method 
+        - If the distribution is heavily left-skewed (Q3(third quartiles) < 0.4), then we conclude that the cell definitely has inclusions
+            - Apply Otsu’s thresholding (`threshold_otsu`) or set a lower limit of `0.5`.
+        - If Q3 ≥ 0.9, there's definitely no inclusions, so we set the threshold to 1. Since we normalized the images, the highest pixel value is 1, therefore applying the threshold would filter out everything.
+        - For the rest of the cases, we're not 100% sure that there are no inclusions, so we use a high threshold (`0.99`) instead of 1 in case there are inclusions.
+    - Apply the threshold to the cell.
+    - Count the number of inclusions and calculate surface areas. Collect statistics
+    
+  
