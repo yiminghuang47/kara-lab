@@ -1,0 +1,3 @@
+time point, mfi of red, mfi of green
+
+threshold orange and also apply it to green
