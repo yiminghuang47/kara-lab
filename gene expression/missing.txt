@@ -1,0 +1,267 @@
+missing lipid genes
+AKR1C3	Not found in any selected network
+MTMR1, NFYA	Not found in any selected network
+CYP4F8, SEC24B	Not found in any selected network
+CROT, SLC44A4	Not found in any selected network
+MAPKAPK2	Not found in any selected network
+SLC10A2	Not found in any selected network
+LPGAT1, SRD5A3	Not found in any selected network
+MED13, INPPL1	Not found in any selected network
+PLD1, SEC24D	Not found in any selected network
+CYP2C9	Not found in any selected network
+GALC, ABCG8	Not found in any selected network
+MED25, CPT1B	Not found in any selected network
+GBA3	Not found in any selected network
+ACLY	Not found in any selected network
+ABCB4	Not found in any selected network
+NCOR2, SPTLC2	Not found in any selected network
+PRKACG	Not found in any selected network
+GPX1, PTGS2	Not found in any selected network
+TNFRSF21, CEPT1	Not found in any selected network
+TECRL	Not found in any selected network
+ARSG	Not found in any selected network
+MED29, HSD17B12	Not found in any selected network
+KDSR, BMP1	Not found in any selected network
+APOC3, DPEP3	Not found in any selected network
+PLA2G12A, CHKB	Not found in any selected network
+SRD5A2	Not found in any selected network
+ARSA, PPAP2A	Not found in any selected network
+ABHD5, A2M	Not found in any selected network
+OCRL, SP1	Not found in any selected network
+CYP11B2	Not found in any selected network
+LTC4S	Not found in any selected network
+NEU1	Not found in any selected network
+AKR1D1	Not found in any selected network
+ACSL5, INPP5K	Not found in any selected network
+MED26	Not found in any selected network
+CYP8B1	Not found in any selected network
+AKR1C1	Not found in any selected network
+AGPS, CEL	Not found in any selected network
+HSD3B1	Not found in any selected network
+CYP19A1	Not found in any selected network
+CYP4B1, ECHS1	Not found in any selected network
+APOB	Not found in any selected network
+ABCB11	Not found in any selected network
+SMPD1, HSD17B3	Not found in any selected network
+TPTE	Not found in any selected network
+HSD3B2	Not found in any selected network
+SULT2A1	Not found in any selected network
+SLCO1B3, CGA	Not found in any selected network
+CYP4F22	Not found in any selected network
+APOC2	Not found in any selected network
+ARSB, OXCT1	Not found in any selected network
+MED23, APOF	Not found in any selected network
+APOA5	Not found in any selected network
+CYP4F2	Not found in any selected network
+NSDHL, LPCAT1	Not found in any selected network
+DGAT1	Not found in any selected network
+AGPAT1	Not found in any selected network
+CYP1A2	Not found in any selected network
+POMC, PSAP	Not found in any selected network
+CSNK1G2, CYP1B1	Not found in any selected network
+MED22	Not found in any selected network
+ACOX2, GNPAT	Not found in any selected network
+STARD6	Not found in any selected network
+NEU2	Not found in any selected network
+CYP24A1, SYNJ2	Not found in any selected network
+CYP2C19	Not found in any selected network
+PIK3CG	Not found in any selected network
+LPIN2, MSMO1	Not found in any selected network
+NFYC, TECR	Not found in any selected network
+CDS1, PLA2G4E	Not found in any selected network
+ACER1	Not found in any selected network
+ABCG5	Not found in any selected network
+ARSH	Not found in any selected network
+CETP, FABP1	Not found in any selected network
+FDX1L	Not found in any selected network
+ALOX12, PRKD1	Not found in any selected network
+PLA2G2E	Not found in any selected network
+GPAT2, PRKACB	Not found in any selected network
+PIK3R2	Not found in any selected network
+ENPP7	Not found in any selected network
+PI4KA, STAR	Not found in any selected network
+CYP2R1	Not found in any selected network
+LDLR	Not found in any selected network
+MED31, DHCR24	Not found in any selected network
+PNLIP	Not found in any selected network
+AKR1C2, CPT2	Not found in any selected network
+CYP4A22	Not found in any selected network
+CYP21A2	Not found in any selected network
+ALOX5	Not found in any selected network
+CYP46A1, PTGDS	Not found in any selected network
+GPX2, ASAH1	Not found in any selected network
+PTGES, ELOVL2	Not found in any selected network
+APOA4	Not found in any selected network
+LPA	Not found in any selected network
+MED13L, MBOAT1	Not found in any selected network
+GBA	Not found in any selected network
+HMGCS2, PGS1	Not found in any selected network
+GC	Not found in any selected network
+ARF1, BAAT	Not found in any selected network
+CDK19, AKR1B1	Not found in any selected network
+ANGPTL4, PLA2G2F	Not found in any selected network
+SLCO1B1	Not found in any selected network
+AKR1C4	Not found in any selected network
+ARF3, MED14	Not found in any selected network
+UGT1A9	Not found in any selected network
+PLA2G2D	Not found in any selected network
+PPARD, CYP11B1	Not found in any selected network
+ACER3	Not found in any selected network
+GK2	Not found in any selected network
+SUMF2, CYP7A1	Not found in any selected network
+PNLIPRP1	Not found in any selected network
+DEGS2, TGS1	Not found in any selected network
+ACADM, PIK3C2B	Not found in any selected network
+LTA4H, SPTLC1	Not found in any selected network
+ASAH2	Not found in any selected network
+SEC23A, PPARA	Not found in any selected network
+
+
+
+
+
+
+Lipid + PD
+
+GBA	Duplicated
+PRKN, PLA2G6	Not found in any selected network
+PINK	Not found in any selected network
+MAPT	Not found in any selected network
+SPR, SPG11	Not found in any selected network
+SNC	Not found in any selected network
+RAB39	Not found in any selected network
+VPS35, WDR45	Not found in any selected network
+KRTCAP2	Not found in any selected network
+STK39, TMEM163	Not found in any selected network
+ITPK	Not found in any selected network
+RAB29	Not found in any selected network
+MED12L, SPTSSB	Not found in any selected network
+TRIM40	Not found in any selected network
+LOC100131289	Not found in any selected network
+PAM, ELOVL7	Not found in any selected network
+RIMS1, FYN	Not found in any selected network
+SH3GL2, UBAP2	Not found in any selected network
+RPS6KL	Not found in any selected network
+GCH1, MIPOL1	Not found in any selected network
+CD19, SETD1A	Not found in any selected network
+CASC16	Not found in any selected network
+RETREG3	Not found in any selected network
+CRHR1	Not found in any selected network
+WNT3, BRIP1	Not found in any selected network
+MED12, HMGCL	Not found in any selected network
+AKR1C3	Not found in any selected network
+NFYA, SUMF1	Not found in any selected network
+CYP4F8	Not found in any selected network
+SEC24B, TEAD1	Not found in any selected network
+SLC44A4, MAPKAPK2	Not found in any selected network
+SLC10A2	Not found in any selected network
+SRD5A3, CERK	Not found in any selected network
+INPPL1, RORA	Not found in any selected network
+SEC24D, HSD3B7	Not found in any selected network
+CYP2C9	Not found in any selected network
+ABCG8, GK3P	Not found in any selected network
+GBA3, ACLY	Not found in any selected network
+ABCB4	Not found in any selected network
+CCNC, FAM213B	Not found in any selected network
+PRKACG	Not found in any selected network
+NFYB, PTGES3	Not found in any selected network
+VAC14, CERS4	Not found in any selected network
+TECRL	Not found in any selected network
+ARSG	Not found in any selected network
+SGPP1, GPD1L	Not found in any selected network
+CERS3, SLC25A17	Not found in any selected network
+APOC3	Not found in any selected network
+DPEP3	Not found in any selected network
+TBL1XR1, ACSL3	Not found in any selected network
+SRD5A2, PLA2G2A	Not found in any selected network
+VAPB, ALOX12B	Not found in any selected network
+PLA2G4F, PITPNB	Not found in any selected network
+MED18, SLC27A2	Not found in any selected network
+CYP11B2	Not found in any selected network
+LTC4S	Not found in any selected network
+NEU1	Not found in any selected network
+AKR1D1	Not found in any selected network
+INPP5K, ACSL4	Not found in any selected network
+MED26	Not found in any selected network
+CYP8B1	Not found in any selected network
+AKR1C1	Not found in any selected network
+CEL, ELOVL4	Not found in any selected network
+HSD3B1	Not found in any selected network
+CYP19A1	Not found in any selected network
+CYP4B1, ECHS1	Not found in any selected network
+APOB	Not found in any selected network
+ABCB11	Not found in any selected network
+SMPD1, HSD17B3	Not found in any selected network
+TPTE	Not found in any selected network
+HSD3B2	Not found in any selected network
+SULT2A1	Not found in any selected network
+SLCO1B3, CGA	Not found in any selected network
+CYP4F22	Not found in any selected network
+APOC2	Not found in any selected network
+ARSB, OXCT1	Not found in any selected network
+MED23, APOF	Not found in any selected network
+APOA5	Not found in any selected network
+CYP4F2	Not found in any selected network
+NSDHL, LPCAT1	Not found in any selected network
+DGAT1	Not found in any selected network
+AGPAT1	Not found in any selected network
+CYP1A2	Not found in any selected network
+POMC, PSAP	Not found in any selected network
+CSNK1G2, CYP1B1	Not found in any selected network
+MED22	Not found in any selected network
+ACOX2, GNPAT	Not found in any selected network
+STARD6	Not found in any selected network
+NEU2	Not found in any selected network
+CYP24A1, SYNJ2	Not found in any selected network
+CYP2C19	Not found in any selected network
+PIK3CG	Not found in any selected network
+LPIN2, MSMO1	Not found in any selected network
+NFYC, TECR	Not found in any selected network
+CDS1, PLA2G4E	Not found in any selected network
+ACER1	Not found in any selected network
+ABCG5	Not found in any selected network
+ARSH	Not found in any selected network
+CETP, FABP1	Not found in any selected network
+FDX1L	Not found in any selected network
+ALOX12, PRKD1	Not found in any selected network
+PLA2G2E	Not found in any selected network
+GPAT2, PRKACB	Not found in any selected network
+PIK3R2	Not found in any selected network
+ENPP7	Not found in any selected network
+PI4KA, STAR	Not found in any selected network
+CYP2R1	Not found in any selected network
+LDLR	Not found in any selected network
+MED31, DHCR24	Not found in any selected network
+PNLIP	Not found in any selected network
+AKR1C2, CPT2	Not found in any selected network
+CYP4A22	Not found in any selected network
+CYP21A2	Not found in any selected network
+ALOX5	Not found in any selected network
+CYP46A1, PTGDS	Not found in any selected network
+GPX2, ASAH1	Not found in any selected network
+PTGES, ELOVL2	Not found in any selected network
+APOA4	Not found in any selected network
+LPA	Not found in any selected network
+MED13L, MBOAT1	Not found in any selected network
+GBA	Duplicated
+HMGCS2, PGS1	Not found in any selected network
+GC	Not found in any selected network
+ARF1, BAAT	Not found in any selected network
+CDK19, AKR1B1	Not found in any selected network
+ANGPTL4, PLA2G2F	Not found in any selected network
+SLCO1B1	Not found in any selected network
+AKR1C4	Not found in any selected network
+ARF3, MED14	Not found in any selected network
+UGT1A9	Not found in any selected network
+PLA2G2D	Not found in any selected network
+PPARD, CYP11B1	Not found in any selected network
+ACER3	Not found in any selected network
+GK2	Not found in any selected network
+SUMF2, CYP7A1	Not found in any selected network
+PNLIPRP1	Not found in any selected network
+DEGS2, TGS1	Not found in any selected network
+ACADM, PIK3C2B	Not found in any selected network
+LTA4H, SPTLC1	Not found in any selected network
+ASAH2	Not found in any selected network
+SEC23A, PPARA	Not found in any selected network
+ 
